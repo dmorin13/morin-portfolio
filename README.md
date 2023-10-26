@@ -1,5 +1,5 @@
 <h1 align="center">My Dev Portfolio</h1>
-<h3 align="center">A collection of my previous projects, featuring different technologies and framworks, rangin from games, interactive apps using API's to passion projects of mine I've found very fun to work on!</h3>
+<h3 align="center">A collection of my previous projects, featuring different technologies and framworks, ranging from games, interactive apps using API's to passion projects of mine I've found very fun to work on!</h3>
 
 - 🔭 I’m currently working on [Teacher Talk an app to facilaite multilingual communication between ESL familes and teachers](https://github.com/dmorin13) and will be starting a Spotify API app to give users more control of their playlists! 🎵
 
